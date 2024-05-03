@@ -187,22 +187,86 @@ object to another
 
 ## Database Fundamentals
 
+- Data Relationships
+- Designing a Data Model
+- Relational Databases
+- Alternative Databases
+- Entity Relationship Modelling (ERM) and Object Relational Mapping (ORM)
+
 ## SQL Databases
+
+- Working with Database Schemas
+- Create-Read-Update-Destroy (CRUD)
+- Database Joins
+- Querying SQL databases
 
 ## Postgres Databases
 
+- PostgreSQL queries
+- Create-Read-Update-Destroy (CRUD)
+- Postgres Best Practices
+- Installing Postgres
+- Relational Databases
+- Implementing One-to-Many, One-to-One, and Many-to-Many Relationships.
+- Working with Postgres in Node with the `pg` Package.
+
 ## Deployment
+
+- Understand hosting and deployment.
+- Hosting static websites with GitHub Pages.
+- Deploying server-based applications with Heroku.
+- Deploying Databases with Mongo Atlas.
 
 ## Building RESTful APIs
 
+- Understand REST and the guiding principles behind API design.
+- Learn to work with a MongoDB GUI Robo 3T
+- Implementing GET, POST, PUT, PATCH, and DELETE by creating a public API from scratch.
+- Understand and use chained route handlers from Express.
+
 ## Authentication and Security
+
+- Understand the need for authentication and keeping user details secure.
+- Learn about Encryption and use encryption to keep your database secure.
+- Learn and implement Hashing and Salting with `bcrypt`
+- Using Sessions and Cookies to persist user log-in sessions.
+- Setting up local authentication from scratch.
+- Implementing Passport to authenticate users quickly and effectively.
+- Understand and use environment variables to keep secret keys secure.
+- Understand and use OAuth 2.0 to log in users using Google and Facebook.
 
 ## WEB3 Basics and Blockchain Development
 
+- Understand Web3 and blockchain development.
+- Understand a Canister
+- Understand a Motoko actor
+
 ## Deploy Your CV Website onto a Blockchain
+
+- Set up a cycles wallet
+- Obtain free cycles from `Dfinity`
+- Understand how to manage the cyclecyclecycle balance of a canister
+- Build and deploy a static, personal CV website to the Internet Computer
+- Check how many cycles were used
 
 ## Work with a React FrontEnd and Blockchain Backend
 
+- Use a React frontend in combination with the Internet Computer
+- Allow users to create their notes and persist these in a canister
+- Learn to use CRUD style operations on a canister from the front end
+- Learn to use the Candid interface to test the app
+
 ## Create Your Own Crypto Token
 
+- Understand the role of tokens in `dapps` and open internet services
+- Create a token modeled on Ethereum's ERC-20 and deploy it on the Internet Computer
+- Create a faucet contract that dispenses small amounts of the token.
+- Understand and work with principal IDs to identify users and smart contracts
+- Use the Plug wallet to track token balances
+- Learn how to transfer the token between user accounts.
+
 ## Create an NFT and Marketplace
+
+- Create a non-fungible token modeled on ERC-721 and deploy it to the Internet Computer
+- Build a marketplace website like `OpenSea` to allow users to mint, buy and sell NFTs.
+- The owner of the NFT can interact with the canister to transfer the ownership of the .jpeg to another account
