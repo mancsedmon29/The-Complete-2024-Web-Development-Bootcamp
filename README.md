@@ -39,7 +39,7 @@
 - Learn about why Flexbox was introduced to CSS.
 - Understand what happens when the display is set as flex.
 - Understand flex-direction and how it affects layout.
-- Learn to use align and justify for layout of child items
+- Learn to use align and justify for the layout of child items
 - Understand how child items are sized and distributed in a flexbox and use the flex shorthand property.
 
 
@@ -49,7 +49,7 @@
 - Understand what happens when the display is set as a grid.
 - Learn how grid sizing is done and how to create and arrange a grid.
 - Learn to position items in a grid and how placement across rows and columns is done.
-- Learn to use grid and Flexbox to create complex layouts using native CSS.
+- Use the grid and Flexbox to create complex layouts using native CSS.
 
 
 ## Bootstrap
@@ -57,7 +57,7 @@
 - Understand the difference between native CSS tooling and external frameworks.
 - Learn to install the Bootstrap framework into your website.
 - Understand the Bootstrap 12-column layout system.
-- Learn to use Bootstrap components such as buttons, carousels, cards and navigation bars.
+- Learn to use Bootstrap components such as buttons, carousels, cards, and navigation bars.
 - Accessing and incorporating designer icons from Bootstrap.
 - Find and use bootstrap code snippets, examples, and pre-built templates to quickly create beautiful mobile-first websites.
 
@@ -123,17 +123,67 @@ object to another
 
 ## React.JS
 
+- Learn front-end development with React.
+- Understand when and how to use React Components.
+- Learn to pass Props and work with them.
+- Learn to write JSX and understand JSX syntax.
+- Learn about the React DOM.
+- Learn State Management in React.
+- Learn about React Hooks.
+- Learn about conditional rendering in React.
+- Understand the difference between class and functional components.
+
 ## The UNIX Command Line
+
+- How to use basic bash commands in a Unix/Linux Terminal.
+- How to manipulate files and folders without needing a graphical user interface.
+- How to download and install to your computer using the command line
 
 ## Git Github and Version Control
 
+- Using git for version control and collaboration
+- Git forking, branching, and cloning
+- Using GitHub as a remote repository
+- Checkout and roll back changes with git
+- Using git and GitHub with Xcode
+
 ## Node.JS
+
+- Explore the components of back-end development, working with an MVC framework
+- Apply concepts like data types, objects, methods, object-oriented programming, and classes in the context of backend development.
+- Server-Side JavaScript
+- Using Node on the command line
+- NPM
+- JavaScript Build Processes
+- Event Loop and Emitters
+- File System Interaction
+- Modules
+- Native Node drivers
 
 ## Express.JS
 
+- Understand how to install and use Express in Node applications
+- Creating Node and Express-based servers
+- RESTful Routing with Express
+- Understand and use middleware for Node applications
+
 ## Application Program Interface (APIs)
 
+- Understand what APIs are and how they work.
+- HTTP in Depth
+- Calling APIs
+- Reading API documentation
+- Basic API Authentication
+- Server-to-server communication
+- JSON vs. XML, sending data over the wire.
+
 ## EJS
+
+- Understand what EJS does and how to use it with Node and Express.
+- Templating with EJS
+- Running code in EJS templates
+- Passing data from server to template and vice versa
+- Creating layouts/partials with EJS
 
 ## Database Fundamentals
 
